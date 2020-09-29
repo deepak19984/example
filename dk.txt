@@ -2,3 +2,5 @@ hii deepak
 its only for study
 this is for 1 stbtranch
 and i commit in master branch
+and i commit these things in another branch
+and i can edit in new branch
